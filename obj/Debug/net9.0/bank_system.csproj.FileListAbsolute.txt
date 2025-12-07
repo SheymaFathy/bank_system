@@ -1,0 +1,14 @@
+F:\asp.netCourse\G89\session5\bank_system\bin\Debug\net9.0\bank_system.exe
+F:\asp.netCourse\G89\session5\bank_system\bin\Debug\net9.0\bank_system.deps.json
+F:\asp.netCourse\G89\session5\bank_system\bin\Debug\net9.0\bank_system.runtimeconfig.json
+F:\asp.netCourse\G89\session5\bank_system\bin\Debug\net9.0\bank_system.dll
+F:\asp.netCourse\G89\session5\bank_system\bin\Debug\net9.0\bank_system.pdb
+F:\asp.netCourse\G89\session5\bank_system\obj\Debug\net9.0\bank_system.GeneratedMSBuildEditorConfig.editorconfig
+F:\asp.netCourse\G89\session5\bank_system\obj\Debug\net9.0\bank_system.AssemblyInfoInputs.cache
+F:\asp.netCourse\G89\session5\bank_system\obj\Debug\net9.0\bank_system.AssemblyInfo.cs
+F:\asp.netCourse\G89\session5\bank_system\obj\Debug\net9.0\bank_system.csproj.CoreCompileInputs.cache
+F:\asp.netCourse\G89\session5\bank_system\obj\Debug\net9.0\bank_system.dll
+F:\asp.netCourse\G89\session5\bank_system\obj\Debug\net9.0\refint\bank_system.dll
+F:\asp.netCourse\G89\session5\bank_system\obj\Debug\net9.0\bank_system.pdb
+F:\asp.netCourse\G89\session5\bank_system\obj\Debug\net9.0\bank_system.genruntimeconfig.cache
+F:\asp.netCourse\G89\session5\bank_system\obj\Debug\net9.0\ref\bank_system.dll
